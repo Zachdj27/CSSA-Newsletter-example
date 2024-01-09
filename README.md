@@ -5,5 +5,7 @@ engine as Word to process HTML files.\
 
 ## How it looks (just a few unordered snippets to showcase it)
 ![](images/image_1)
+
 ![](images/image_3)
+
 ![](images/image_2)
