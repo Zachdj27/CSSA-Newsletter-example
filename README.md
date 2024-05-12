@@ -3,7 +3,7 @@ This is an example of an email newsletter for the Computer Science Student Assoc
 The formatting is a little different from your normal HTML and CSS files, since Outlook uses the same rendering
 engine as Word to process HTML files.\
 
-## How it looks (just a few unordered snippets to showcase it)
+## How it looks (a few unordered snippets)
 ![](images/image_1)
 
 ![](images/image_3)
